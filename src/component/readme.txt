@@ -1,0 +1,1 @@
+//compenent sẽ là nơi chứa các component nhỏ và được tái sử dụng liên tục ở các component lớn ở bên COMPONENTS

@@ -1,0 +1,1 @@
+//Components là thư mực chứa các component lớn.
